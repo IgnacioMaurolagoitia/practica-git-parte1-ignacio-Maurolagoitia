@@ -1,0 +1,5 @@
+* 4c64a5c fix: solucion de conflicto en presentacion.md
+* 6cfe8bd feat: cambiar pelicula favorita en local
+* 4d04acb Update presentacion.md
+* 68c7f4b Añadir mas hobbies a presentacion
+* 145944f Añadiendi el .md
