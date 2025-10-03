@@ -1,3 +1,8 @@
+* 8a953b9 docs: añade logs y diffs como evidencia
+* 9548687 chore: elimina temporal.txt
+* 8982fd5 chore: añade temporal.txt
+* 607e050 docs: añade EJERCICIOS.md y conflicto.md
+* 7f77125 docs: añade historial como evidencia
 * 4c64a5c fix: solucion de conflicto en presentacion.md
 * 6cfe8bd feat: cambiar pelicula favorita en local
 * 4d04acb Update presentacion.md

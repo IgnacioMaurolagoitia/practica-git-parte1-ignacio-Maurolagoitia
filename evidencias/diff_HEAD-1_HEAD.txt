@@ -1,7 +1,28 @@
-diff --git a/temporal.txt b/temporal.txt
-deleted file mode 100644
-index 31ddeb7..0000000
---- a/temporal.txt
-+++ /dev/null
-@@ -1 +0,0 @@
--"temporal" 
+diff --git a/evidencias/diff_HEAD-1_HEAD.txt b/evidencias/diff_HEAD-1_HEAD.txt
+new file mode 100644
+index 0000000..6a541dc
+--- /dev/null
++++ b/evidencias/diff_HEAD-1_HEAD.txt
+@@ -0,0 +1,7 @@
++diff --git a/temporal.txt b/temporal.txt
++deleted file mode 100644
++index 31ddeb7..0000000
++--- a/temporal.txt
+++++ /dev/null
++@@ -1 +0,0 @@
++-"temporal" 
+diff --git a/evidencias/log_graph.txt b/evidencias/log_graph.txt
+new file mode 100644
+index 0000000..14de36d
+--- /dev/null
++++ b/evidencias/log_graph.txt
+@@ -0,0 +1,9 @@
++* 9548687 chore: elimina temporal.txt
++* 8982fd5 chore: añade temporal.txt
++* 607e050 docs: añade EJERCICIOS.md y conflicto.md
++* 7f77125 docs: añade historial como evidencia
++* 4c64a5c fix: solucion de conflicto en presentacion.md
++* 6cfe8bd feat: cambiar pelicula favorita en local
++* 4d04acb Update presentacion.md
++* 68c7f4b Añadir mas hobbies a presentacion
++* 145944f Añadiendi el .md
